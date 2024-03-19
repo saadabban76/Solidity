@@ -1,5 +1,6 @@
+// SPDX-License-Identifier: MIT
 
-a solidity ^0.8.24;
+pragma solidity ^0.8.24;
 
 contract HotelRoom {
     // Ether Payments
@@ -52,4 +53,3 @@ contract HotelRoom {
 // msg.transfer: A function that securely transfers a fixed amount of Ether to another contract or address, throwing an exception if the transfer fails (revert).
 // msg.send: A function that sends a fixed amount of Ether to another contract or address, returning a boolean value (true or false) if the transfer is successful or not.
 // msg.call: A low-level function that allows you to execute arbitrary code on another contract, returning the result of the execution. This function bypasses some security features of Solidity and is more vulnerable to re-entrancy attacks.
-  "name": "rummmy_bc",
