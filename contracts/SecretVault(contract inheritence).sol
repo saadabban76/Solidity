@@ -43,6 +43,7 @@ contract ParentContract is Ownable {
     }
 
     function getSecret() public view onlyOwner returns (string memory) {
-        return SecretVault(secretVaultArr).getSecret();
+        return SecretVault(secretVaultArr).getSecret(); //  evm needs an addressing for each instance of a contract so we first reference the address to contract then call its function.
+
     }
 }
