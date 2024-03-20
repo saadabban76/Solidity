@@ -47,3 +47,13 @@ contract ParentContract is Ownable {
 
     }
 }
+
+/*
+    1. first option : creating an instance of contract and accesing it via referencing its address to call its functions.
+    2. second option : a normal traditional way of using inheritence of contract(A) in contract(B) using 'is' keyword.
+
+    - the first option is better suited for separating concerns and providing better modularity(giving control over 
+        the contract states and its function(here you can have your own defined parameters in functions)), 
+    - while the second option is more suitable for creating traditional inheritance hierarchies. 
+        The choice between the two options depends on the specific requirements of your project.
+*/
