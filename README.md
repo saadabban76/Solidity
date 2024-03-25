@@ -19,32 +19,4 @@ npm install -D hardhat
 Sub Package : @nomicfoundation/hardhat-toolbox
 
 ### Global Commands : 
-### Usage: hardhat [GLOBAL OPTIONS] <TASK> [TASK OPTIONS]
-
-### GLOBAL OPTIONS:
-
-  --config              A Hardhat config file.<br>
-  --emoji               Use emoji in messages.<br>
-  --help                Shows this message, or a task's help if its name is provided<br>
-  --max-memory          The maximum amount of memory that Hardhat can use.<br>
-  --network             The network to connect to.<br>
-  --show-stack-traces   Show stack traces.<br>
-  --tsconfig            A TypeScript config file.<br>
-  --verbose             Enables Hardhat verbose logging.<br>
-  --version             Shows hardhat's version.<br>
-
-
-### AVAILABLE TASKS:
-
-  check       ---          Check whatever you need<br>
-  clean          ---       Clears the cache and deletes all artifacts<br>
-  compile           ---    Compiles the entire project, building all artifacts<br>
-  console             ---  Opens a hardhat console<br>
-  coverage ---             Generates a code coverage report for tests<br>
-  flatten     ---          Flattens and prints contracts and their dependencies<br>
-  help           ---       Prints this message<br>
-  node     ---             Starts a JSON-RPC server on top of Hardhat Network<br>
-  run         ---          Runs a user-defined script after compiling the project<br>
-  test           ---       Runs mocha tests<br>
-  typechain        ---     Generate Typechain typings for compiled contracts<br>
-  verify    ---            Verifies contract on Etherscan<br>
+![image](https://github.com/saadabban76/Solidity/assets/115649011/f30b9732-7f77-4f40-bd6a-0aad24960782)
