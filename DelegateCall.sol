@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.24;
+pragma solidity >=0.8.19 < 0.8.24;
 
 // DelegateCall is a function in solidity that allows you to you execute the functions of another contract(B) with its storage in contract(A). 
 

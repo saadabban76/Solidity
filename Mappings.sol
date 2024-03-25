@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.24;
+pragma solidity >=0.8.19 < 0.8.24;
 
 // It is a key-value store that allows you to associate values with unique keys.
 

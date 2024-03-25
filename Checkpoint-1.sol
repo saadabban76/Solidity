@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.24;
+pragma solidity >=0.8.19 < 0.8.24;
 
 contract EventTicket {
     uint256 public numberOfTickets;

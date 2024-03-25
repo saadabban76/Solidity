@@ -1,0 +1,149 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Coding_Stuff\\Learning Folder\\solidity\\contracts\\hotel-contract.sol": {
+      "lastModificationDate": 1711329869172,
+      "contentHash": "dc4613b96671e43212a0807ec5256877",
+      "sourceName": "contracts/hotel-contract.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.19 < 0.8.24"
+      ],
+      "artifacts": [
+        "HotelRoom"
+      ]
+    },
+    "D:\\Coding_Stuff\\Learning Folder\\solidity\\contracts\\SecretVault(contract inheritence).sol": {
+      "lastModificationDate": 1711329869172,
+      "contentHash": "9eccd396c1c2afa30e99eeff137d3659",
+      "sourceName": "contracts/SecretVault(contract inheritence).sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.19 < 0.8.24"
+      ],
+      "artifacts": [
+        "Ownable",
+        "ParentContract",
+        "SecretVault"
+      ]
+    },
+    "D:\\Coding_Stuff\\Learning Folder\\solidity\\contracts\\uniswapEthReserversUsingInterface.sol": {
+      "lastModificationDate": 1711329869172,
+      "contentHash": "17a063b606ccbd5f6acc2052459728d2",
+      "sourceName": "contracts/uniswapEthReserversUsingInterface.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.19 < 0.8.24"
+      ],
+      "artifacts": [
+        "UniswapExample",
+        "UniswapV2Factory",
+        "UniswapV2Pair"
+      ]
+    },
+    "D:\\Coding_Stuff\\Learning Folder\\solidity\\contracts\\Token.sol": {
+      "lastModificationDate": 1711330315701,
+      "contentHash": "38cf1552513fb40f0b5d859a021863d6",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.19 < 0.8.24"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
