@@ -1,4 +1,4 @@
-## Concepts learnt : 
+![image](https://github.com/saadabban76/Solidity/assets/115649011/9c3fd95a-3a96-40f2-aa54-812c5b100e28)![image](https://github.com/saadabban76/Solidity/assets/115649011/183b720b-d099-42a0-823c-57ac599e372a)## Concepts learnt : 
 
 1. Checkpoint-1 : contract creation, variables, constructor, globalVariables, functions, functional scope.
 
@@ -20,3 +20,6 @@ Sub Package : @nomicfoundation/hardhat-toolbox
 
 ### Global Commands : 
 ![image](https://github.com/saadabban76/Solidity/assets/115649011/f30b9732-7f77-4f40-bd6a-0aad24960782)
+
+### Important Packages : 
+npm i --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
