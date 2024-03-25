@@ -1,4 +1,4 @@
-## Concepts learnt : 
+![image](https://github.com/saadabban76/Solidity/assets/115649011/9c3fd95a-3a96-40f2-aa54-812c5b100e28)![image](https://github.com/saadabban76/Solidity/assets/115649011/183b720b-d099-42a0-823c-57ac599e372a)## Concepts learnt : 
 
 1. Checkpoint-1 : contract creation, variables, constructor, globalVariables, functions, functional scope.
 
@@ -19,32 +19,7 @@ npm install -D hardhat
 Sub Package : @nomicfoundation/hardhat-toolbox
 
 ### Global Commands : 
-### Usage: hardhat [GLOBAL OPTIONS] <TASK> [TASK OPTIONS]
+![image](https://github.com/saadabban76/Solidity/assets/115649011/f30b9732-7f77-4f40-bd6a-0aad24960782)
 
-### GLOBAL OPTIONS:
-
-  --config              A Hardhat config file.<br>
-  --emoji               Use emoji in messages.<br>
-  --help                Shows this message, or a task's help if its name is provided<br>
-  --max-memory          The maximum amount of memory that Hardhat can use.<br>
-  --network             The network to connect to.<br>
-  --show-stack-traces   Show stack traces.<br>
-  --tsconfig            A TypeScript config file.<br>
-  --verbose             Enables Hardhat verbose logging.<br>
-  --version             Shows hardhat's version.<br>
-
-
-### AVAILABLE TASKS:
-
-  check       ---          Check whatever you need<br>
-  clean          ---       Clears the cache and deletes all artifacts<br>
-  compile           ---    Compiles the entire project, building all artifacts<br>
-  console             ---  Opens a hardhat console<br>
-  coverage ---             Generates a code coverage report for tests<br>
-  flatten     ---          Flattens and prints contracts and their dependencies<br>
-  help           ---       Prints this message<br>
-  node     ---             Starts a JSON-RPC server on top of Hardhat Network<br>
-  run         ---          Runs a user-defined script after compiling the project<br>
-  test           ---       Runs mocha tests<br>
-  typechain        ---     Generate Typechain typings for compiled contracts<br>
-  verify    ---            Verifies contract on Etherscan<br>
+### Important Packages : 
+npm i --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
