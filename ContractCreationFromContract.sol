@@ -14,7 +14,7 @@ contract Car {
 }
 
 contract CarFactory {
-    Car[] public cars;
+    Car[] public cars; // cars array will return the set of contract addresses of the car contract.
 
     function create(string memory _model) public {
         // code to create the new contract inside the contract.
