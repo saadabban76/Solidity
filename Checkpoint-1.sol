@@ -11,6 +11,8 @@ contract EventTicket {
     uint256 timeRange;
     string message = "Buy your first Event Ticket";
 
+
+
     constructor(uint256 _ticketPrice) {
         ticketPrice = _ticketPrice;
         startAt = block.timestamp;
